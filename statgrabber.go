@@ -1,4 +1,4 @@
-package statgrabber
+package gostatgrabber
 
 import (
 	"fmt"

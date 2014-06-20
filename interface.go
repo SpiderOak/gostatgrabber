@@ -1,4 +1,4 @@
-package statgrabber
+package gostatgrabber
 
 // StatGrabber defines the API for communicating with the stat server
 type StatGrabber interface {

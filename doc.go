@@ -22,4 +22,4 @@ You can graph 4 types of stats:
  * accumulators (ex: bandwidth used) and elapsed
  * time (ex: time per transaction)
 */
-package statgrabber
+package gostatgrabber
